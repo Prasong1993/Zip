@@ -1,4 +1,6 @@
-![Zip - Zip and unzip files in Swift](https://cloud.githubusercontent.com/assets/889949/12374908/252373d0-bcac-11e5-8ece-6933aeae8222.png)
+![Zip - Zip and unzip files in Swift](https://cloud.githubusercontent.com/assets/889949/12374908/252373d0-bcac-11e5-8ece-6933aeae8222.# Zip - Zip and unzip files in Swift
+
+[English](README.md) | [ไทย](README.th.md)
 
 https://github.com/Prasong1993/Zip/blob/master/README.th.md
 # Zip
